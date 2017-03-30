@@ -1,0 +1,10 @@
+Python PhotoEditor
+version 1.0
+
+Developers:
+Esma Toptas 
+Ionut Petre Urs
+
+Credits:
+Prof. Dr. Visvanathan Ramesh 
+Trainer Andres Fernandez Rodriguez
